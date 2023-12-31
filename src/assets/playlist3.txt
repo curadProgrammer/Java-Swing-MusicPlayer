@@ -1,0 +1,3 @@
+D:\Programming\Youtube Videos\Java\MP3MusicPlayer\src\assets\Auld Lang Syne (Instrumental) - Jingle Punks.mp3
+D:\Programming\Youtube Videos\Java\MP3MusicPlayer\src\assets\Tropic Fuse - French Fuse.mp3
+D:\Programming\Youtube Videos\Java\MP3MusicPlayer\src\assets\Wind Riders - Asher Fulero.mp3
